@@ -468,7 +468,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
-  background-color: #1B1B1B;
+  background-color: #fff;
 }
 
 .navbar-b .navbar-brand {
@@ -911,7 +911,7 @@ a:hover {
 .work-img {
   display: block;
   overflow: hidden;
-  max-height:161px;
+  max-height:235px;
 }
 
 .work-img img {
@@ -1079,4 +1079,11 @@ a:hover {
   .back-to-top {
     bottom: 15px;
   }
+  .about-mf .about-img img {
+    margin-left:0px;
+    width: auto;
+    height: auto;
+    width: 100%;
+  }
 }
+
